@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "texto": "¿Cuanto dura un partido de futbol?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "90 minutos",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "80 minutos",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "80 minutos",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "80 minutos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "texto": "¿Cuándo se celebró el primer mundial de fútbol?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "El 13 de julio de 1930",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "El 15 de Agosto de 1920",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "El 13 de julio de 1990",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "El 15 de septiembre de 1910",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "texto": "¿Cuándo se celebró el primer mundial de fútbol?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Francia",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Brasil",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Alemania",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Argentina",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "texto": "¿Cuál es el equipo más famoso de la ciudad italiana de Turín?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Juventus",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Napoles",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Torino",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "AC Milan",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "texto": "¿Qué entrenador argentino es conocido como \"El Cholo\"?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Diego Simeone",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Diego Maradona",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Pochetino",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Carlo Ancheloti",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "texto": "¿Cuál es el río más largo del mundo?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Andino",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Nilo",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Amazonas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Houston",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "texto": "¿Cuál es el país con más habitantes del mundo?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "India",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Egipto",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "China",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Japón",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "texto": "¿Cuál es el edificio más alto del mundo?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Empire State",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Colpatria",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Burj Khalifa",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Coltejer",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "texto": "¿Dónde está Transilvania?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Irlanda",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Escocia",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Rumania",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Ucrania",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "texto": "¿Cuál es el país con menos habitantes del mundo?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Cuba",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Escocia",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Vaticano",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Nueva Zelanda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "texto": "¿Qué es Zelandia?",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Un parque temático",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Un continente",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Un país del hemisferio norte",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Una ciudad islandesa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "texto": "El punto más profundo de la fosa de las Marianas está exactamente a...",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "11.044 metros de profundidad",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "11.034 metros de profundidad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "11.054 metros de profundidad",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "11.144 metros de profundidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "texto": "¿Cuál es el país de los 1.000 lagos?",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Brasil",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Finlandia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Estados Unidos",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Canadá",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "texto": "¿Dónde está la región más pobre del mundo?",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "En Zimbabue",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "En Sahel",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Estados Unidos",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "En Honduras",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "texto": "El río más largo de Europa es...",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "El Tajo",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "El Volga",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "El Támesis",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "El Ebro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "texto": "¿Dónde realizan las plantas la fotosíntesis?",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "En las hojas.",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "En el aire.",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "En el tallo.",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "En la raíz.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "texto": "¿Qué necesitan las células para dividirse?",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Nada.",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Otra célula.",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Sangre.",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Energía.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "texto": "¿Qué fases tiene la fotosíntesis?",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "No tiene fases.",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Activa y pasiva.",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Primaria y secundaria.",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Luminosa y oscura..",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "texto": "Las células reproductoras se dividen por...",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "No se puede",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Metamorfosis.",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Mitosis.",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Meiosis.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "texto": "¿Qué tipos de semillas hay?",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Monocotiledóneas.",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "Dicotiledóneas.",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "Con fruto o sin fruto.",
+                "correcta": false
+            },
+            {
+                "id": 4,
+                "texto": "Monocotiledóneas y dicotiledóneas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "texto": "Cuál es la representación gráfica del número nueve mil treinta y seis.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "990036",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "90036",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "9036",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "936",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "texto": "A cuántas unidades equivale 10 decenas de millar.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "10000",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "1000",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "100000 ",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "10",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "texto": "Aproxima el número 58 a la decena.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "59",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "50",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "60 ",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "55",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "texto": "Escribe el número ordinal trigésimo quinto en cifras.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "123",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "135",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "35 ",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "25",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "texto": "Qué cantidad expresa el número romano V.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "23",
+                "correcta": false
+            },
+            {
+                "id": 2,
+                "texto": "135",
+                "correcta": false
+            },
+            {
+                "id": 3,
+                "texto": "5",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "25",
+                "correcta": false
+            }
+        ]
+    }
+]

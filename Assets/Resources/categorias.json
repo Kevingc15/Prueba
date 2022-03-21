@@ -1,0 +1,26 @@
+[{
+    "id":1,
+    "nombre": "Deportes",
+    "nivel": 1
+
+},
+{
+    "id":2,
+    "nombre": "Cultura General",
+    "nivel": 2
+},
+{
+    "id":3,
+    "nombre": "Geografia",
+    "nivel": 3
+},
+{
+    "id":4,
+    "nombre": "Biologia",
+    "nivel": 4
+},
+{
+    "id":5,
+    "nombre": "Matematicas",
+    "nivel": 5
+}]
